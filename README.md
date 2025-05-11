@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Rezaul Hasan Mahadie</h1>
-<h3 align="center">A passionate full-stack Flutter developer & Motion Graphics Designer!</h3>
+<h3 align="center">A passionate full-stack Flutter developer & Motion Designer!</h3>
 
 - 🔭 I’m currently working on **Android & iOS apps**
 
